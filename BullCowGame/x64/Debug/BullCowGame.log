@@ -1,0 +1,5 @@
+﻿  FBullCowGame.cpp
+g:\c++\bullcowgame\bullcowgame\fbullcowgame.cpp(19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  BullCowGame.vcxproj -> G:\C++\BullCowGame\x64\Debug\BullCowGame.exe
